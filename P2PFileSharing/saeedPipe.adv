@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE jxta:PipeAdvertisement>
+<jxta:PipeAdvertisement xmlns:jxta="http://jxta.org">
+	<Id>
+		urn:jxta:uuid-59616261646162614E5047205032503337165B7AB98642E6A6918591D053591704
+	</Id>
+	<Type>
+		JxtaUnicast
+	</Type>
+	<Name>
+		SaEeDPipe
+	</Name>
+</jxta:PipeAdvertisement>
